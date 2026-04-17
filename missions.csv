@@ -1,0 +1,15 @@
+Client,Consultant,Date_Debut,Date_Fin,TJM_HT,Marge_Perc,Statut
+Client 1 ,Kevin Orléans,2026-03-09,2026-12-31,700,30,Signé
+Client 1,Chanakya Tours,2026-03-20,2026-12-31,650,27,Signé
+Client 2 ,Firas Strasbourg,2026-03-09,2026-12-31,560,43,Signé
+Client 3 ,Catherine Toulouse,2026-01-05,2026-12-31,650,34,Signé
+Client 2 ,Charly Bordeaux ,2026-04-07,2026-12-31,700,45,Signé
+Client 1 ,Benoit Orly,2026-05-17,2026-12-31,750,37,Signé
+Client 2,Romain Roissy,2026-05-02,2026-08-31,800,50,Signé
+Client 3 ,Youssef Tokyo,2026-05-09,2026-09-15,700,34,Signé
+Client 4 ,Benoit Washington ,2026-01-01,2026-12-31,900,40,Signé
+Client 4 ,Roland Texas,2026-03-21,2026-12-31,950,41,Signé
+Client 2 ,Guillaume Osaka,2026-07-02,26-12-31,1000,50,Signé
+Client 3 ,Vincent Lille,2026-02-02,2026-12-19,1000,50,Signé
+Client 4 ,Louis Amellal ,2026-01-31,2026-12-31,1800,47,Signé
+Client4,Emma Garnier,2026-01-29,2026-12-31,1800,47,Signé
